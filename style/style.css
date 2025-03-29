@@ -1,0 +1,35 @@
+/* * {
+    border: 1px dashed red;
+} */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+h1 {
+    color: #020f6f;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: #1a0a74;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+h3 {
+    color: #222522;
+    font-size: 1.7em;
+    text-align: center;
+    }
+
+p {
+    color: #222522;
+    font-size: 1.5em;
+    text-align: center;
+}
