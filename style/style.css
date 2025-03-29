@@ -2,7 +2,7 @@
     border: 1px dashed red;
 } */
 
-html,
+html,.
 body {
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@ body {
 
 
 h1 {
-    color: #020f6f;
+    color: #025f6f;
     font-size: 2em;
     font-weight: bold;
     text-align: center;
@@ -33,3 +33,38 @@ p {
     font-size: 1.5em;
     text-align: center;
 }
+.allignleft {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-align: left;
+    font-style: italic;
+}
+
+.allignright {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-align:right;
+    font-style: italic;
+}
+
+.justify {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-align: justify;
+    font-style: italic;
+    background-color: #f7d3097f;
+}
+
+/* .textShadow{
+    text-shadow: 0.15em 0.50em 0.75em rgb(0, 0 ,0 );
+} */
+
+.textTransformUpper {
+    text-transform: uppercase;
+    word-spacing: 4em;
+    text-shadow: 0.15em 0.50em 0.75em rgb(0, 0 ,0 );
+}
+
+/* .wordSpacing {
+    word-spacing: 4em;
+} */
